@@ -1,0 +1,1 @@
+Example files for [Optimizing TensorFlow with MLIR: A Comprehensive Guide](http://python.sbyai.com/2023/10/optimizing-tensorflow-with-mlir.html)

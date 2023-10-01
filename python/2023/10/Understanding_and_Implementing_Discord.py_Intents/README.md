@@ -1,0 +1,1 @@
+Example files for [Understanding and Implementing Discord.py Intents](http://python.sbyai.com/2023/10/understanding-and-implementing.html)

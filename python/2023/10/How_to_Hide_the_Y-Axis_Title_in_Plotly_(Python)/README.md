@@ -1,0 +1,1 @@
+Example files for [How to Hide the Y-Axis Title in Plotly (Python)](http://python.sbyai.com/2023/10/how-to-hide-y-axis-title-in-plotly.html)
