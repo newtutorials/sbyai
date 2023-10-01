@@ -1,2 +1,2 @@
 # sbyai
-Files for SbyAI.com
+Files for [Solutions Provided by AI](https://SbyAI.com)
