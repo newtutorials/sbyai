@@ -1,0 +1,1 @@
+Example files for [Validating String Length with Java Spring Validation](http://java.sbyai.com/2023/09/validating-string-length-with-java.html)

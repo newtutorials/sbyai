@@ -1,0 +1,1 @@
+Example files for [Implementing JWT Logout in Spring Boot](http://java.sbyai.com/2023/10/implementing-jwt-logout-in-spring-boot.html)

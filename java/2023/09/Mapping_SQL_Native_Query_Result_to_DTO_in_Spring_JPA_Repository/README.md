@@ -1,0 +1,1 @@
+Example files for [Mapping SQL Native Query Result to DTO in Spring JPA Repository](http://java.sbyai.com/2023/09/mapping-sql-native-query-result-to-dto.html)

@@ -1,0 +1,1 @@
+Example files for [Returning CREATED status (201 HTTP) in ResponseEntity](http://java.sbyai.com/2023/09/returning-created-status-201-http-in.html)

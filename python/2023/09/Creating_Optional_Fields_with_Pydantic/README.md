@@ -1,0 +1,1 @@
+Example files for [Creating Optional Fields with Pydantic](http://python.sbyai.com/2023/09/creating-optional-fields-with-pydantic.html)

@@ -1,0 +1,1 @@
+Example files for [Setting Default Values for Variables in Python](http://python.sbyai.com/2023/09/setting-default-values-for-variables-in.html)

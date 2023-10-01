@@ -1,0 +1,1 @@
+Example files for [Mapping Enum fields with MapStruct](http://java.sbyai.com/2023/09/mapping-enum-fields-with-mapstruct.html)

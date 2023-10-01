@@ -1,0 +1,1 @@
+Example files for [Mocking static method calls from multiple classes using Mockito](http://java.sbyai.com/2023/09/mocking-static-method-calls-from_29.html)
