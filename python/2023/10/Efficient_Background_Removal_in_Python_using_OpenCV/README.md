@@ -1,0 +1,1 @@
+Example files for [Efficient Background Removal in Python using OpenCV](http://python.sbyai.com/2023/10/efficient-background-removal-in-python.html)

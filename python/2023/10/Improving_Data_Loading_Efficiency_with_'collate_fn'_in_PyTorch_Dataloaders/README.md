@@ -1,0 +1,1 @@
+Example files for [Improving Data Loading Efficiency with 'collate_fn' in PyTorch Dataloaders](http://python.sbyai.com/2023/10/improving-data-loading-efficiency-with.html)

@@ -1,0 +1,1 @@
+Example files for [Introduction to @Slf4j annotation for logging](http://java.sbyai.com/2023/10/introduction-to-slf4j-annotation-for.html)

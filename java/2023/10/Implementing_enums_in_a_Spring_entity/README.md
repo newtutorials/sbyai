@@ -1,0 +1,1 @@
+Example files for [Implementing enums in a Spring entity](http://java.sbyai.com/2023/10/implementing-enums-in-spring-entity.html)

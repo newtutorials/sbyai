@@ -1,0 +1,1 @@
+Example files for [A Beginner's Guide to Using Embedded MongoDB with SpringBoot v2.6.2](http://java.sbyai.com/2023/10/a-beginners-guide-to-using-embedded.html)

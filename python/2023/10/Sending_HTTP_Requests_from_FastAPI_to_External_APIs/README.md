@@ -1,0 +1,1 @@
+Example files for [Sending HTTP Requests from FastAPI to External APIs](http://python.sbyai.com/2023/10/sending-http-requests-from-fastapi-to.html)

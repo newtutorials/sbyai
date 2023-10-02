@@ -1,0 +1,8 @@
+# Create a 1-dimensional tensor
+x = torch.tensor([1, 2, 3, 4, 5])
+
+# Expand the dimensions
+expanded_x = x.unsqueeze(0)
+
+# Check the shape of the expanded tensor
+print(expanded_x.shape)

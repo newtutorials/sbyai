@@ -1,0 +1,1 @@
+Example files for [Getting Started with Pytest and Poetry: Simplify Your Testing Workflow](http://python.sbyai.com/2023/10/getting-started-with-pytest-and-poetry.html)

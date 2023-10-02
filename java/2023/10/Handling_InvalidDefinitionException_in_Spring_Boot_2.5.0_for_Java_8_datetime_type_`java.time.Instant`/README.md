@@ -1,0 +1,1 @@
+Example files for [Handling InvalidDefinitionException in Spring Boot 2.5.0 for Java 8 date/time type `java.time.Instant`](http://java.sbyai.com/2023/10/handling-invaliddefinitionexception-in.html)
